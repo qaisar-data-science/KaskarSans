@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Kaskar Sans';
+  src: url('KaskarSans-Regular.otf') format('opentype'),
+       url('KaskarSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
